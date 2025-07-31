@@ -30,7 +30,7 @@ The project includes algorithm implementations grouped by category:
 
 1. Clone the repository:  
    ```bash
-   git clone -b
+   git clone -b main https://github.com/ghezlene/Java-Algorithm-Playground.git
 2. Compile all Java files:
      ```bash
      javac *.java
