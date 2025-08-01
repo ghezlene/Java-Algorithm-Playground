@@ -81,6 +81,6 @@ public class mainClass {
           }
 
 
-          opsClass.executeChosenOperation(choice);
+          opsClass.executeChosenOperation(choice,sc);
      }
 }
